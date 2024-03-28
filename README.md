@@ -18,7 +18,7 @@ Os testes unitários foram desenvolvidos com o objetivo de demonstrar como escre
 
   ## Instalação
 
-  1. Clone the repository:
+1. Clone the repository:
 
 ```bash
 git clone https://git@github.com:danielmouravani/PicPaySimplificado.git
