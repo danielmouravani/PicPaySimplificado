@@ -10,9 +10,9 @@ Os testes unitários foram desenvolvidos com o objetivo de demonstrar como escre
 
 ## Índice
 
-- [Installation](#Instalação)
-- [Configuration](#Configuração)
-- [Usage](#Uso)
+- [Instalação](#Instalação)
+- [Configuração](#Configuração)
+- [Uso](#Uso)
 - [API Endpoints](#api-endpoints)
 - [Database](#database)
 
