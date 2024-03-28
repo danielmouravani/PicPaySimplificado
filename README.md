@@ -21,7 +21,7 @@ Os testes unitários foram desenvolvidos com o objetivo de demonstrar como escre
   1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://git@github.com:danielmouravani/PicPaySimplificado.git
 ```
 
 2. Instale dependências com Maven
